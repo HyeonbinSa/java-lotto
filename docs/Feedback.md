@@ -68,3 +68,7 @@
 - [x] LottosTest - 변수명 수정 
 - [x] @MethodSource 를 통한 테스트 시도 
 - [x] @CsvSource 이용 시 Enum타입을 바로 선언할 수 있음 
+
+### 3차 피드백 기반 추가 학습 사항
+- [ ] Numbers -> WinningNumber, WinningNumber -> Numbers 서로 알고 있다.
+  - 이 구조가 가지고 있는 문제점과 해결할 수 있는 방법에 대한 고민
